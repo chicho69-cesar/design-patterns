@@ -1,0 +1,15 @@
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\bin\Debug\net7.0\PrototypeShallow.exe
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\bin\Debug\net7.0\PrototypeShallow.deps.json
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\bin\Debug\net7.0\PrototypeShallow.runtimeconfig.json
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\bin\Debug\net7.0\PrototypeShallow.dll
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\bin\Debug\net7.0\PrototypeShallow.pdb
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\obj\Debug\net7.0\PrototypeShallow.csproj.AssemblyReference.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\obj\Debug\net7.0\PrototypeShallow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\obj\Debug\net7.0\PrototypeShallow.AssemblyInfoInputs.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\obj\Debug\net7.0\PrototypeShallow.AssemblyInfo.cs
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\obj\Debug\net7.0\PrototypeShallow.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\obj\Debug\net7.0\PrototypeShallow.dll
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\obj\Debug\net7.0\refint\PrototypeShallow.dll
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\obj\Debug\net7.0\PrototypeShallow.pdb
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\obj\Debug\net7.0\PrototypeShallow.genruntimeconfig.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeShallow\PrototypeShallow\obj\Debug\net7.0\ref\PrototypeShallow.dll
