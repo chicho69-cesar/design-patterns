@@ -1,0 +1,15 @@
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\bin\Debug\net7.0\Mediador.exe
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\bin\Debug\net7.0\Mediador.deps.json
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\bin\Debug\net7.0\Mediador.runtimeconfig.json
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\bin\Debug\net7.0\Mediador.dll
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\bin\Debug\net7.0\Mediador.pdb
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\obj\Debug\net7.0\Mediador.csproj.AssemblyReference.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\obj\Debug\net7.0\Mediador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\obj\Debug\net7.0\Mediador.AssemblyInfoInputs.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\obj\Debug\net7.0\Mediador.AssemblyInfo.cs
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\obj\Debug\net7.0\Mediador.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\obj\Debug\net7.0\Mediador.dll
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\obj\Debug\net7.0\refint\Mediador.dll
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\obj\Debug\net7.0\Mediador.pdb
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\obj\Debug\net7.0\Mediador.genruntimeconfig.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\Mediador\Mediador\obj\Debug\net7.0\ref\Mediador.dll
