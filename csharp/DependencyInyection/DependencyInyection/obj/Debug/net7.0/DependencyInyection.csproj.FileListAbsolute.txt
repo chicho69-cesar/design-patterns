@@ -1,0 +1,15 @@
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\bin\Debug\net7.0\DependencyInyection.exe
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\bin\Debug\net7.0\DependencyInyection.deps.json
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\bin\Debug\net7.0\DependencyInyection.runtimeconfig.json
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\bin\Debug\net7.0\DependencyInyection.dll
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\bin\Debug\net7.0\DependencyInyection.pdb
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\obj\Debug\net7.0\DependencyInyection.csproj.AssemblyReference.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\obj\Debug\net7.0\DependencyInyection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\obj\Debug\net7.0\DependencyInyection.AssemblyInfoInputs.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\obj\Debug\net7.0\DependencyInyection.AssemblyInfo.cs
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\obj\Debug\net7.0\DependencyInyection.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\obj\Debug\net7.0\DependencyInyection.dll
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\obj\Debug\net7.0\refint\DependencyInyection.dll
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\obj\Debug\net7.0\DependencyInyection.pdb
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\obj\Debug\net7.0\DependencyInyection.genruntimeconfig.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\DependencyInyection\DependencyInyection\obj\Debug\net7.0\ref\DependencyInyection.dll
