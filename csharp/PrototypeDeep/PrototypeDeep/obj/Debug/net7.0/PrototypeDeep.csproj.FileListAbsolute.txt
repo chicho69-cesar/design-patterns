@@ -1,0 +1,15 @@
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\bin\Debug\net7.0\PrototypeDeep.exe
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\bin\Debug\net7.0\PrototypeDeep.deps.json
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\bin\Debug\net7.0\PrototypeDeep.runtimeconfig.json
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\bin\Debug\net7.0\PrototypeDeep.dll
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\bin\Debug\net7.0\PrototypeDeep.pdb
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\obj\Debug\net7.0\PrototypeDeep.csproj.AssemblyReference.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\obj\Debug\net7.0\PrototypeDeep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\obj\Debug\net7.0\PrototypeDeep.AssemblyInfoInputs.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\obj\Debug\net7.0\PrototypeDeep.AssemblyInfo.cs
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\obj\Debug\net7.0\PrototypeDeep.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\obj\Debug\net7.0\PrototypeDeep.dll
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\obj\Debug\net7.0\refint\PrototypeDeep.dll
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\obj\Debug\net7.0\PrototypeDeep.pdb
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\obj\Debug\net7.0\PrototypeDeep.genruntimeconfig.cache
+C:\Cursos\Curso Programacion en C#\Apartado 1 - Curso desde cero con C#\Leccion 9 - Patrones de diseño\PrototypeDeep\PrototypeDeep\obj\Debug\net7.0\ref\PrototypeDeep.dll
